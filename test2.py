@@ -1,1 +1,1 @@
-pritn('Goodbye, World')
+print('Goodbye, World')
